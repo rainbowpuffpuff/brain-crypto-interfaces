@@ -1,4 +1,4 @@
-# 🏗 Brain Crypto Interfaces
+# 🧠 Brain Crypto Interfaces ♦ 
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
