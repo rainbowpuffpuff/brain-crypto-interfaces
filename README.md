@@ -5,6 +5,11 @@
   <a href="https://scaffoldeth.io">Website</a>
 </h4>
 
+ETHDam 2024 Taikai Submission
+https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluz9mmr1016cyz01g3iry70i/idea
+
+Waku runner-up prize winner
+
 🧪 Brain Crypto Interfaces suggests the use of incentives for uploading brain data to improve open source classification models. Commmunication privacy and security between users can be leveraged with Waku communication protocols. A boilerplate contract is added to ETH-Scaffold 2, an open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
 ETH-Scaffold 2 
